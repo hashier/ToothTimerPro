@@ -1,26 +1,18 @@
 {
-    "appKeys": {
-        "dummy": 0
-    },
-    "capabilities": [
-        ""
-    ],
-    "companyName": "Michael Vezie",
-    "longName": "ToothTimer",
-    "projectType": "native",
-    "resources": {
-        "media": []
-    },
-    "sdkVersion": "3",
-    "shortName": "ToothTimer",
-    "targetPlatforms": [
-        "aplite",
-        "basalt"
-    ],
-    "uuid": "2ff736b2-2be5-4e37-8613-bb3c11d75c44",
-    "versionCode": 1,
-    "versionLabel": "1.1",
-    "watchapp": {
-        "watchface": false
-    }
+  "uuid": "30e754ca-c3c4-4745-b008-d4824e63a09c",
+  "shortName": "ToothTimerPro",
+  "longName": "ToothTimerPro",
+  "companyName": "Christopher Loessl",
+  "versionLabel": "1.0",
+  "sdkVersion": "3",
+  "targetPlatforms": ["aplite", "basalt"],
+  "watchapp": {
+    "watchface": false
+  },
+  "appKeys": {
+    "dummy": 0
+  },
+  "resources": {
+    "media": []
+  }
 }
